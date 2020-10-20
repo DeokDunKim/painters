@@ -2,11 +2,11 @@
 # Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
 # File units = meters
 
-mtllib 38e5bbf3-bb04-41d5-ab8b-86bcc173217a.mtl
+mtllib fee2814f-3ecc-4cdc-97b6-21b6b0b6a466.mtl
 
 g Mesh1 Model
 
-usemtl FrontColor
+usemtl Helen_Skin
 v 0 0 -0
 vt 0 0
 vn 0 -1 -0
