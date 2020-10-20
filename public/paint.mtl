@@ -11,5 +11,5 @@ newmtl Helen_BraceletGlasses
 Ka 0.000000 0.000000 0.000000
 Kd 0.552941 0.505882 0.525490
 Ks 0.330000 0.330000 0.330000
-map_Kd Helen_BraceletGlasses.jpg
+map_Kd ./Helen_BraceletGlasses.jpg
 
