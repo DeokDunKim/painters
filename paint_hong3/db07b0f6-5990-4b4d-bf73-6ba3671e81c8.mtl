@@ -1,0 +1,15 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Helen_BraceletGlasses
+Ka 0.000000 0.000000 0.000000
+Kd 0.329412 0.356863 0.188235
+Ks 0.330000 0.330000 0.330000
+map_Kd db07b0f6-5990-4b4d-bf73-6ba3671e81c8/Helen_BraceletGlasses.jpg
+
+newmtl Helen_Blouse
+Ka 0.000000 0.000000 0.000000
+Kd 0.215686 0.039216 0.176471
+Ks 0.330000 0.330000 0.330000
+
