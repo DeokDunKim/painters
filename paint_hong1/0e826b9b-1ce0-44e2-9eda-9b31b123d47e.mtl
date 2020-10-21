@@ -1,0 +1,25 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl BackColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.552941 0.686275 0.756863
+Ks 0.330000 0.330000 0.330000
+
+newmtl Helen_BraceletGlasses
+Ka 0.000000 0.000000 0.000000
+Kd 0.552941 0.505882 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd 0e826b9b-1ce0-44e2-9eda-9b31b123d47e/Helen_BraceletGlasses.jpg
+
+newmtl ForegroundColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
